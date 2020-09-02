@@ -5,4 +5,4 @@ The algorithms are:
 2. Random Forests
 3. XGBoost (Gradient Boosting)
 
-Achieved an accuracy of 
+Achieved an accuracy of 92.9 % for Decision Trees, 95.9% for Random Forests, 96.5% for XGBoost algorithm.
